@@ -1,0 +1,17 @@
+C:\Users\berkea\source\repos\nypödevaliberkekara\nypödevaliberkekara\obj\Debug\net6.0-windows\nypödevaliberkekara.csproj.AssemblyReference.cache
+C:\Users\berkea\source\repos\nypödevaliberkekara\nypödevaliberkekara\obj\Debug\net6.0-windows\nypödevaliberkekara.Form1.resources
+C:\Users\berkea\source\repos\nypödevaliberkekara\nypödevaliberkekara\obj\Debug\net6.0-windows\nypödevaliberkekara.csproj.GenerateResource.cache
+C:\Users\berkea\source\repos\nypödevaliberkekara\nypödevaliberkekara\obj\Debug\net6.0-windows\nypödevaliberkekara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berkea\source\repos\nypödevaliberkekara\nypödevaliberkekara\obj\Debug\net6.0-windows\nypödevaliberkekara.AssemblyInfoInputs.cache
+C:\Users\berkea\source\repos\nypödevaliberkekara\nypödevaliberkekara\obj\Debug\net6.0-windows\nypödevaliberkekara.AssemblyInfo.cs
+C:\Users\berkea\source\repos\nypödevaliberkekara\nypödevaliberkekara\obj\Debug\net6.0-windows\nypödevaliberkekara.csproj.CoreCompileInputs.cache
+C:\Users\berkea\source\repos\nypödevaliberkekara\nypödevaliberkekara\bin\Debug\net6.0-windows\nypödevaliberkekara.exe
+C:\Users\berkea\source\repos\nypödevaliberkekara\nypödevaliberkekara\bin\Debug\net6.0-windows\nypödevaliberkekara.deps.json
+C:\Users\berkea\source\repos\nypödevaliberkekara\nypödevaliberkekara\bin\Debug\net6.0-windows\nypödevaliberkekara.runtimeconfig.json
+C:\Users\berkea\source\repos\nypödevaliberkekara\nypödevaliberkekara\bin\Debug\net6.0-windows\nypödevaliberkekara.dll
+C:\Users\berkea\source\repos\nypödevaliberkekara\nypödevaliberkekara\bin\Debug\net6.0-windows\nypödevaliberkekara.pdb
+C:\Users\berkea\source\repos\nypödevaliberkekara\nypödevaliberkekara\obj\Debug\net6.0-windows\nypödevaliberkekara.dll
+C:\Users\berkea\source\repos\nypödevaliberkekara\nypödevaliberkekara\obj\Debug\net6.0-windows\refint\nypödevaliberkekara.dll
+C:\Users\berkea\source\repos\nypödevaliberkekara\nypödevaliberkekara\obj\Debug\net6.0-windows\nypödevaliberkekara.pdb
+C:\Users\berkea\source\repos\nypödevaliberkekara\nypödevaliberkekara\obj\Debug\net6.0-windows\nypödevaliberkekara.genruntimeconfig.cache
+C:\Users\berkea\source\repos\nypödevaliberkekara\nypödevaliberkekara\obj\Debug\net6.0-windows\ref\nypödevaliberkekara.dll
